@@ -1,0 +1,2 @@
+C:\Users\eleves\Documents\AnnaZidanes\Kit\WebApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\eleves\Documents\AnnaZidanes\Kit\WebApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
